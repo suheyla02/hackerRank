@@ -1,7 +1,6 @@
-import java.util.*;
+import java.util.Scanner;
 
 public class Solution03 {
-
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
@@ -15,5 +14,6 @@ public class Solution03 {
         System.out.println(c);
         // Complete this line
         // Complete this line
+    }
     }
 }
