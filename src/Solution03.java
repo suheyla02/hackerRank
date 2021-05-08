@@ -14,6 +14,8 @@ public class Solution03 {
         System.out.println(c);
         // Complete this line
         // Complete this line
+
+        String s= scan.nextLine();
     }
     }
-}
+
